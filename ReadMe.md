@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente, estou me concentrando no desenvolvimento Full Stack. Estou também aprimorando minhas habilidades para criar interfaces interativas e intuitivas. Meu objetivo é dominar todas as áreas do desenvolvimento web, oferecendo soluções completas e eficientes para diversos requisitos e desafios.
+Atualmente, estou me concentrando no desenvolvimento Full Stack. Meu objetivo é dominar todas as áreas do desenvolvimento web, oferecendo soluções completas e eficientes para diversos requisitos e desafios.
 
 
 ## 🌐 Socials:
